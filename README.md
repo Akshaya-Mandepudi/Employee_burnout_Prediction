@@ -1,6 +1,6 @@
-# Employee_burnout_Prediction# My Portfolio
+# Employee_burnout_Prediction# 
 # Description
-Welcome to our project! This application is developed using python to facilitate My Employee burnout Prediction Website.
+Welcome to our project! This application is developed using python to facilitate My Employee burnout Prediction Project.
 
 # Idea contributes
 Hey, we welcome you all to share your reviews, ideas and contributes to develop the game:
